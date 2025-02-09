@@ -1,0 +1,16 @@
+@import url('font.css');
+@import url('main.css');
+@import url('colors.css');
+
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("/assets/images/bg.png");
+    background-size: cover; 
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    height: 100vh; 
+}
